@@ -1,3 +1,3 @@
 # ionic3-jest-example
 
-Example jest setup and implementation in ionic v3
+Example jest setup and implementation using ionic v3
