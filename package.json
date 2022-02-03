@@ -31,6 +31,9 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.2.4",
+    "@types/jest": "^22.2.3",
+    "jest": "^22.4.4",
+    "jest-preset-angular": "^5.2.3",
     "typescript": "2.6.2"
   },
   "description": "An Ionic project"
